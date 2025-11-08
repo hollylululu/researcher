@@ -24,3 +24,9 @@ is_contact: true
 1. [Facebook](#)
 2. [Twitter](#)
 3. [Google+](#)
+
+# 2025
+## [J.18] Mapping Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review
+Michele Flynch, **Lu He**, Morgan Badurak, Suzanne, Bakken  
+
+# 2024
