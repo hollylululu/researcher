@@ -8,14 +8,12 @@ layout: default
 
 I am a tenure-track assistant professor in the [Zilber College of Public Health](https://uwm.edu/publichealth) at the University of Wisconsin-Milwaukee. I am interested in natural language processing and human-computer interaction with a focus on health-related topics. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
 ## Research Interest
 
 Trained as a health informatics researcher, my work bridges computational methods, health data science, and patient-centered applications. My research program integrates three com-plementary lines of inquiry: 
 1. advancing informatics and computational methodologies to an-alyze and integrate heterogeneous health data; 
-2. applying data-driven approaches to gener-ate empirical insights that inform clinical practice, patient care, and population health inter-ventions; 
-3. designing, implementing, and evaluating health information technologies that empower patients’ self-management and facilitate coordination among healthcare stakehold-ers. 
+2. applying data-driven approaches to generate empirical insights that inform clinical practice, patient care, and population health interventions; 
+3. designing, implementing, and evaluating health information technologies and digital interventions that promote health knowledge, empower patients’ self-management and facilitate coordination among healthcare stakeholders. 
 
 Together, these directions aim to translate data and computational advances into actiona-ble knowledge and technologies that improve health outcomes and equity.
 

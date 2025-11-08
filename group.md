@@ -10,7 +10,7 @@
 > Research project: Using Large Language Models to characterize the stages and transition trajectors of an online vaping cessation community using the Stage of Change Theory. <br>
 
 **Dhruv Naidu Alti**
-> Research project: Using Large Language Models to extract patient-reported outcomes from an online vaping cessation community using the Stage of Change Theory. 
+> Research project: Using Large Language Models to extract patient-reported outcomes from an online vaping cessation community. 
 
 
 ---
