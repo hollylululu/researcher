@@ -69,11 +69,3 @@ Changyang He, <u>Lu He</u>, Zhicong Lu, Bo Li <br>
 
 
 
-<details>
-  <summary>Click to expand</summary>
-
-  - Item 1  
-  - Item 2  
-  - Item 3
-
-</details>

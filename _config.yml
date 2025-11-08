@@ -26,6 +26,8 @@ nav:
    link: "/researcher/"
  - name: "Publications"
    link: "publications"
+ - name: "Teaching"
+   link: "teaching"
  - name: "Group"
    link: "group"
  - name: "Misc"

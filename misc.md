@@ -5,9 +5,9 @@ is_contact: true
 <details>
   <summary>2025</summary>
 
-  - Item 1  
-  - Item 2  
-  - Item 3
+  * Item 1  
+  * Item 2  
+  * Item 3
 
 </details>
 
