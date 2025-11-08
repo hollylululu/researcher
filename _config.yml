@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: [Email](mailto:you@example.com) | [Google Scholar](https://scholar.google.com/citations?user=XXXXX) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | Site built with [Jekyll](https://jekyllrb.com/), template [here](https://github.com/your-template)
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
