@@ -13,9 +13,9 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 ## Research Interest
 
 Trained as a health informatics researcher, my work bridges computational methods, health data science, and patient-centered applications. My research program integrates three com-plementary lines of inquiry: 
-(1) advancing informatics and computational methodologies to an-alyze and integrate heterogeneous health data; 
-(2) applying data-driven approaches to gener-ate empirical insights that inform clinical practice, patient care, and population health inter-ventions; 
-(3) designing, implementing, and evaluating health information technologies that empower patients’ self-management and facilitate coordination among healthcare stakehold-ers. 
+1. advancing informatics and computational methodologies to an-alyze and integrate heterogeneous health data; 
+2. applying data-driven approaches to gener-ate empirical insights that inform clinical practice, patient care, and population health inter-ventions; 
+3. designing, implementing, and evaluating health information technologies that empower patients’ self-management and facilitate coordination among healthcare stakehold-ers. 
 
 Together, these directions aim to translate data and computational advances into actiona-ble knowledge and technologies that improve health outcomes and equity.
 ## Publications
