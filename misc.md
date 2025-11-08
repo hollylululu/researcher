@@ -2,10 +2,14 @@
 layout: default
 is_contact: true
 ---
+<details>
+  <summary>2025</summary>
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+  - Item 1  
+  - Item 2  
+  - Item 3
 
-* Phone: [+91-123123](tel:+91-123123)
+</details>
 
 ---
 

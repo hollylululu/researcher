@@ -20,7 +20,7 @@ Xiaoyu Liu, <u>Lu He</u>, Eman Alanazi, Echu Liu, Arianna Goss, Lionel Gumireddy
 Poster at American Medical Informatics Association Annual Symposium (AMIA’25)<br>
 <u>Lu He</u>, Mani Berenji, Suzanne Tamang, Helen Ma 
 
-**[A11] Mapping the Use of Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review.**
+**[A11] Mapping the Use of Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review.**<br>
 Poster at American Medical Informatics Association Annual Symposium (AMIA’25)<br>
 Michele Flynch, <u>Lu He</u>, Morgan Badurak, Suzanne, Bakken  
 
@@ -38,7 +38,7 @@ Changyang He, Yue Deng, <u>Lu He</u>, Qingyu Guo, Yang Zhang, Zhicong Lu, Bo Li
 Proceedings of the ACM on Human-Computer Interaction (CSCW 2024) <br>
 Changyang He, <u>Lu He</u>, Wenjie Yang, Bo Li
 
-**[A10]Chronic diseases that increase suicidal risk: Analyzing social media posts using Metamap and AI**<br>
+**[A10] Chronic diseases that increase suicidal risk: Analyzing social media posts using Metamap and AI**<br>
 Round Table Presentation at The American Public Health Association Annual Meeting (APHA 2024) <br>
 Priya Nambisan, Pranavi Devath, <u>Lu He</u>
 
@@ -49,11 +49,11 @@ Collaborative workshop at AMIA 2024 Annual Symposium<br>
 ---
 ### 2023
 **[J12] Implications for implementation and adoption of telehealth in low-and- middle income countries during the COVID-19 pandemic: systematic review of China’s practices and experience** <br>
- npj Digit. Med. 6, 174 (2023). <br>
+ npj Digit. Med. 6, 174. <br>
  Jiancheng Ye, <u>Lu He</u>, Molly Beestrum
 
  **[J11] Using machine learning to develop a clinical prediction model for SSRI-associated bleeding: a feasibility study.**<br>
- MC Med Inform Decis Mak 23, 105 (2023) <br>
+ BMC Med Inform Decis Mak 23, 105  <br>
  Jatin Goyal, Ding Quan Ng2, Kevin Zhang, Alexandre Chan, Joyce Lee, Kai Zheng, Keri Hurley‑Kim, Lee Nguyen, <u>Lu He</u>, Megan Nguyen, Sarah McBane, Wei Li, Christine Luu Cadiz
 
  **[J10] I have to use my son’s QR code to run the business”: unpacking senior street vendors’ challenges in mobile money collection in China**<br>
@@ -69,3 +69,11 @@ Changyang He, <u>Lu He</u>, Zhicong Lu, Bo Li <br>
 
 
 
+<details>
+  <summary>Click to expand</summary>
+
+  - Item 1  
+  - Item 2  
+  - Item 3
+
+</details>
