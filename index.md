@@ -18,10 +18,6 @@ Trained as a health informatics researcher, my work bridges computational method
 3. designing, implementing, and evaluating health information technologies that empower patients’ self-management and facilitate coordination among healthcare stakehold-ers. 
 
 Together, these directions aim to translate data and computational advances into actiona-ble knowledge and technologies that improve health outcomes and equity.
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
 
