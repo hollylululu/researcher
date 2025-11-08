@@ -3,13 +3,15 @@ layout: default
 is_contact: true
 ---
 <details>
-  <summary>2025</summary>
-
-  * Item 1  
-  * Item 2  
-  * Item 3
-
+  <summary>Click to expand</summary>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
 </details>
+
+
 
 ---
 
