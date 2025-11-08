@@ -20,6 +20,6 @@ is_contact: true
 ---
 
 <figure>
-  <img src="group_lunch_2025.jpeg" alt="My figure" width="400">
+  <img src="group_lunch_2025.jpeg" alt="Group lunch" width="300" height="300">
   <figcaption>Group lunch at Canela Cafe, November 2025.</figcaption>
 </figure>
