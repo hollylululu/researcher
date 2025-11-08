@@ -1,25 +1,21 @@
----
-layout: default
-is_contact: true
----
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
+### PhD student
+**Raisa Ntemenyi Nkweteyim**
+> Research project: Analyzing the All of Us data to assess associations between modifiable risk factors that prohibit access to GLP-1 and impact on diabetes-related outcomes.
 >
-> London
+
+### Master Students
+**Vishesh Girish Shet** <br>
+> Research project: Using Large Language Models to characterize the stages and transition trajectors of an online vaping cessation community using the Stage of Change Theory. 
 >
-> United Kingdom
+**Dhruv Naidu Alti**
+> Research project: Using Large Language Models to extract patient-reported outcomes from an online vaping cessation community using the Stage of Change Theory. 
+>
 
 ---
-
-<figure>
-  <img src="group_lunch_2025.jpeg" alt="Group lunch" width="300" height="300">
+### Group Activities
+<figure style="text-align:center;">
+  <img src="group_lunch_2025.jpeg" alt="Group lunch" width="240" height="320">
   <figcaption>Group lunch at Canela Cafe, November 2025.</figcaption>
 </figure>
