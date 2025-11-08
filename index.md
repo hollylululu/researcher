@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile2023.jpg">
 
-I am a tenure-track assistant professor in the [Zilber College of Public Health] (https://uwm.edu/publichealth) at the University of Wisconsin-Milwaukee. I am interested in natural language processing and human-computer interaction with a focus on health-related topics. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
+I am a tenure-track assistant professor in the [Zilber College of Public Health](https://uwm.edu/publichealth) at the University of Wisconsin-Milwaukee. I am interested in natural language processing and human-computer interaction with a focus on health-related topics. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 

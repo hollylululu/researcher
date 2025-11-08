@@ -1,4 +1,4 @@
-title: Researcher
+title: Lu He
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -21,6 +21,6 @@ nav:
  - name: "CV"
    link: "resume.pdf"
  - name: "Publications"
-   link: "/publications/"
+   link: "publications"
  - name: "Contact"
    link: "contact"
