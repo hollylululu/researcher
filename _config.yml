@@ -10,8 +10,12 @@ tracking_id: #
 footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
-footer_url2: "google.com"
-footer_text2: "Google"
+footer_url_GoogleScholar: "google.com"
+footer_text_GoogleScholar: "Google"
+footer_url_Email: ""
+footer_text_Email: ""
+footer_url_source: ""
+footer_text_source: ""
 
 sass:
     style: compressed

@@ -19,8 +19,7 @@ is_contact: true
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<figure>
+  <img src="group_lunch_2025.jpeg" alt="My figure" width="400">
+  <figcaption>Group lunch at Canela Cafe, November 2025.</figcaption>
+</figure>
