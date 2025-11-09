@@ -1,15 +1,27 @@
 ---
+
 layout: default
 is_contact: true
 ---
+I am currently focusing on: 
+1. 🧗🏼‍♀️ Top rope climbing 
+2. 🧶 Knitting 
+3. 🏃🏻‍♀️ Running 
+4. 🖋️ Urban sketching 
+5. 📖 Reading
+
+I try to maintain a list of the books I enjoyed every year. It is a highly subjective and personal list. 
 <details>
-  <summary>Click to expand</summary>
+  <summary>2025</summary>
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+    <li>The book of goose, Yiyun Li</li>
+    <li>Freedom, Jonathan Franzen</li>
+    <li>Stoner, John Edward Williams</li>
   </ul>
 </details>
+
+
+
 
 
 
