@@ -8,10 +8,10 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-footer_url_GoogleScholar: "google.com"
-footer_text_GoogleScholar: "Google"
+footer_url: "mailto:he32@uwm.edu"
+footer_text: "Email"
+footer_url_GoogleScholar: "https://scholar.google.com/citations?user=AhFagYAAAAAJ&hl=en&authuser=2"
+footer_text_GoogleScholar: "Google Scholar"
 footer_url_Email: ""
 footer_text_Email: ""
 footer_url_source: ""

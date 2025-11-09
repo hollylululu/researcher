@@ -39,7 +39,7 @@ I like reading, especially on history, fiction (historical fiction and detective
     <li> Une Femme (A Woman's Story),  Annie Ernaux</li>
     <li>La Place (A Man's Place), Annie Ernaux</li>
     <li>Work, Consumerism, and the new Poor, Zygmunt Bauman</li>    
-    <li>我的母亲做保洁，李晓满</li>
+    <li>我的母亲做保洁，张小满</li>
     <li>Minor Feelings, Cathy Park Hong</li>
   </ul>
 </details>
