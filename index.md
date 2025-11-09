@@ -13,7 +13,7 @@ My CV is [here](./files/LH_CV_Nov2025.pdf) (Last update: Nov 2025).
 ## Research Interest
 
 Trained as a health informatics researcher, my work bridges computational methods, informatics, and patient-centered applications. My research program integrates three complementary lines of inquiry: 
-1. Methodological: advancing informatics and computational methodologies to an-alyze and integrate heterogeneous health data; 
+1. Methodological: advancing informatics and computational methodologies to analyze and integrate heterogeneous health data; 
 2. Empirical: applying data-driven approaches to generate empirical insights that inform clinical practice, patient care, and population health interventions; 
 3. Translational: designing, implementing, and evaluating health information technologies and digital interventions that promote health knowledge, empower patients’ self-management and facilitate coordination among healthcare stakeholders. 
 

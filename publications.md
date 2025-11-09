@@ -2,7 +2,7 @@
 ### 2025
 **[J18] Mapping Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review** <br>
 Journal of American Medical Informatics Association (JAMIA), forthcoming<br>
-Michele Flynch, <u>Lu He</u>, Morgan Badurak, Suzanne, Bakken  
+Michele Flynch, <u>Lu He</u>, Morgan Badurak, Suzanne Bakken  
 
 **[J17] Clinical Information Extraction From Notes of Veterans With Lymphoid Malignancies: Natural Language Processing Study** <br>
 JMIR Med Inform 2025;13:e63908 <br>
@@ -22,7 +22,7 @@ Poster at American Medical Informatics Association Annual Symposium (AMIA’25)<
 
 **[A11] Mapping the Use of Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review.**<br>
 Poster at American Medical Informatics Association Annual Symposium (AMIA’25)<br>
-Michele Flynch, <u>Lu He</u>, Morgan Badurak, Suzanne, Bakken  
+Michele Flynch, <u>Lu He</u>, Morgan Badurak, Suzanne Bakken 
 
 ---
 ### 2024
