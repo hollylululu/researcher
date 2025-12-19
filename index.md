@@ -8,7 +8,7 @@ layout: default
 
 I am a tenure-track assistant professor in the [Zilber College of Public Health](https://uwm.edu/publichealth) at the University of Wisconsin-Milwaukee. I am interested in natural language processing and human-computer interaction with a focus on health-related topics. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
 
-My CV is [here](./files/LH_CV_Dec2025.pdf) (Last update: Nov 2025).
+My CV is [here](./files/LH_CV_Dec2025.pdf) (Last update: Dec 2025).
 
 ## Research Interest
 
