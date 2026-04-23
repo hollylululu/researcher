@@ -25,7 +25,7 @@ I like reading, especially on history, fiction (historical fiction and detective
 <details>
   <summary>2024</summary>
   <ul>
-    <li> Povery, by America, Matthew Desmond</li>
+    <li> Poverty, by America, Matthew Desmond</li>
     <li>Small Things Like These, Claire Keegan</li>
     <li>My Year of Rest and Relaxation, Ottessa Moshfegh</li>    
     <li>Secret History, Donna Tartt</li>

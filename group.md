@@ -7,7 +7,7 @@ Research project: Analyzing the All of Us data to assess associations between mo
 
 ### Master Students
 **Vishesh Girish Shet** <br>
-Research project: Using Large Language Models to characterize the stages and transition trajectors of an online vaping cessation community using the Stage of Change Theory. <br>
+Research project: Using Large Language Models to characterize the stages and transition trajectories of an online vaping cessation community using the Stage of Change Theory. <br>
 
 ---
 ### Group Activities
