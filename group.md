@@ -12,6 +12,6 @@ Research project: Using Large Language Models to characterize the stages and tra
 ---
 ### Group Activities
 <figure style="text-align:center;">
-  <img src="./images/group_lunch_2029.jpeg" alt="Group lunch" >
+  <img src="./images/group_lunch_2026.jpeg" alt="Group lunch" >
   <figcaption>Group lunch at La Merenda, April 2026.</figcaption>
 </figure>
