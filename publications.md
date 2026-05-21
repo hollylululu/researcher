@@ -1,4 +1,13 @@
 
+### 2026
+**[J19] Large Language Model Biases in Healthcare: A Scoping Review and Call for an Integrated Assessment Framework** <br>
+Journal of American Medical Informatics Association (JAMIA), forthcoming<br>
+<u>Lu He*<u>, Phoenix Do*, Vishesh Shet, Omar Farghaly, Priya Deshpande, Praveen Madiraju, Jiancheng Ye, Molly Beestrum 
+
+**[C11] Comparing Human and Large Language Model Responses to Patients’ Online Questions: Towards Multi-dimensional Patient-centered Support** <br>
+American Medical Informatics Association Annual Symposium (AMIA’26) <br>
+Alomgeer Hussein, Rajmi Doshi, <u>Lu He</u>, Tera Reynolds
+
 ### 2025
 **[J18] Mapping Social Media Analytics in Firearm Injury Exposure Research: A Scoping Review** <br>
 Journal of American Medical Informatics Association (JAMIA), forthcoming<br>
