@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="./images/profile2023.jpg">
 
-I am a tenure-track assistant professor in the [Zilber College of Public Health](https://uwm.edu/publichealth) at the University of Wisconsin-Milwaukee. I am interested in natural language processing and human-computer interaction with a focus on health-related topics. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
+I am a tenure-track assistant professor in the [School of Technology for Public Health](https://publichealthtech.asu.edu/) at Arizona State University. Previously, I was a tenure-track assistant professor in the Zilber College of Public Health at the University of Wisconsin-Milwaukee. I earned my PhD degree in Informatics from the University of California, Irvine in 2023 and my Bachelor degree in Computer Science from the University of Minnesota, Twin Cities in 2017. 
 
-My CV is [here](./files/LH_CV_032026.pdf) (Last update: March 2026).
+My CV is [here](./files/LH_CV_102026.pdf) (Last update: October 2026).
 
 ## Research Interest
 
